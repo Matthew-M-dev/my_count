@@ -1,0 +1,28 @@
+body {
+    box-sizing: border-box;
+    margin: auto;
+    padding: auto;
+}   
+* {
+    align-items: center;
+    text-align: center;
+    display: block;
+}
+#mydiv {
+    width: 50%;
+    background-color: rgb(118, 118, 173);
+    margin-left: 25%;
+    padding: 10px;
+}
+button {
+    margin: auto;
+    background-color: rgba(131, 70, 70, 0.884);
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    font-weight: bold;
+    color: whitesmoke;
+}
+#increment-btn {
+    margin-bottom: 15px;
+}
